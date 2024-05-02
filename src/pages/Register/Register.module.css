@@ -1,0 +1,15 @@
+.register {
+  text-align: center;
+}
+
+.register p {
+  color: #aaa;
+}
+
+.sexo {
+  display: inline;
+  text-align: start;
+
+  margin: 10px;
+
+}
